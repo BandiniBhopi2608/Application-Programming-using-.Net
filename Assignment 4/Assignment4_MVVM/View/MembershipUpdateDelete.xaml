@@ -1,0 +1,39 @@
+﻿<Window x:Class="Assignment4_MVVM.View.MembershipUpdateDelete"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment4_MVVM.View"
+        mc:Ignorable="d" Name="wndMembershipUpdate"
+        Title="Update/Delete Membership" Style="{StaticResource childwindowStyle}" WindowStartupLocation="CenterScreen">
+    <Grid DataContext="{Binding MemberViewModel, Source={StaticResource Locator}}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width ="1*"/>
+            <ColumnDefinition Width ="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Style="{StaticResource labelStyle}">First Name:</Label>
+        <Label Grid.Row="1" Grid.Column="0" Style="{StaticResource labelStyle}">Last Name:</Label>
+        <Label Grid.Row="2" Grid.Column="0" Style="{StaticResource labelStyle}">Email:</Label>
+        <TextBox Grid.Row="0" Grid.Column="1" Style="{StaticResource textboxStyle}" 
+        Text="{Binding FirstName}"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Style="{StaticResource textboxStyle}"
+        Text="{Binding LastName}"></TextBox>
+        <TextBox Grid.Row="2" Grid.Column="1" Style="{StaticResource textboxStyle}"
+        Text="{Binding Email}"></TextBox>
+        <WrapPanel Grid.Row="3" Grid.ColumnSpan="2" Style="{StaticResource wrapPanelMainStyle}">
+            <Button Style="{StaticResource buttonStyle}" Command="{Binding UpdateCommand}">Update
+            </Button>
+            <Button Style="{StaticResource buttonStyle}" Command="{Binding DeleteCommand}">Delete
+            </Button>
+            <Button Style="{StaticResource buttonStyle}" Command="{Binding ExitWindowCommand, Mode=OneWay}" 
+            CommandParameter="{Binding ElementName=wndMembershipUpdate}">Cancel
+            </Button>
+        </WrapPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,10 @@
+P:\CECS 475\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+P:\CECS 475\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+P:\CECS 475\Assignment2\Assignment2\obj\Debug\Assignment2.frmMembership.resources
+P:\CECS 475\Assignment2\Assignment2\obj\Debug\Assignment2.frmMembershipAdd.resources
+P:\CECS 475\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+P:\CECS 475\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+P:\CECS 475\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+P:\CECS 475\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+P:\CECS 475\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+P:\CECS 475\Assignment2\Assignment2\obj\Debug\Assignment2.pdb

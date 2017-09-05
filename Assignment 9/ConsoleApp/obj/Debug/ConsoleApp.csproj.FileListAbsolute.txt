@@ -1,0 +1,10 @@
+P:\CECS 475\Assignment 9\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+P:\CECS 475\Assignment 9\ConsoleApp\bin\Debug\ConsoleApp.exe
+P:\CECS 475\Assignment 9\ConsoleApp\bin\Debug\ConsoleApp.pdb
+P:\CECS 475\Assignment 9\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+P:\CECS 475\Assignment 9\ConsoleApp\bin\Debug\System.Net.Http.Formatting.dll
+P:\CECS 475\Assignment 9\ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+P:\CECS 475\Assignment 9\ConsoleApp\bin\Debug\System.Net.Http.Formatting.xml
+P:\CECS 475\Assignment 9\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+P:\CECS 475\Assignment 9\ConsoleApp\obj\Debug\ConsoleApp.exe
+P:\CECS 475\Assignment 9\ConsoleApp\obj\Debug\ConsoleApp.pdb

@@ -1,0 +1,8 @@
+P:\CECS 475\Assignment 6\DataAccessLayer\bin\Debug\SchoolDB.mdf
+P:\CECS 475\Assignment 6\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+P:\CECS 475\Assignment 6\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+P:\CECS 475\Assignment 6\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+P:\CECS 475\Assignment 6\DataAccessLayer\bin\Debug\EntityFramework.dll
+P:\CECS 475\Assignment 6\DataAccessLayer\bin\Debug\EntityFramework.xml
+P:\CECS 475\Assignment 6\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+P:\CECS 475\Assignment 6\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

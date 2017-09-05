@@ -1,0 +1,14 @@
+P:\CECS 475\Assignment 6\Client\bin\Debug\SchoolDB.mdf
+P:\CECS 475\Assignment 6\Client\bin\Debug\Client.exe.config
+P:\CECS 475\Assignment 6\Client\bin\Debug\Client.exe
+P:\CECS 475\Assignment 6\Client\bin\Debug\Client.pdb
+P:\CECS 475\Assignment 6\Client\bin\Debug\BusinessLayer.dll
+P:\CECS 475\Assignment 6\Client\bin\Debug\DataAccessLayer.dll
+P:\CECS 475\Assignment 6\Client\bin\Debug\EntityFramework.dll
+P:\CECS 475\Assignment 6\Client\bin\Debug\BusinessLayer.pdb
+P:\CECS 475\Assignment 6\Client\bin\Debug\DataAccessLayer.pdb
+P:\CECS 475\Assignment 6\Client\bin\Debug\DataAccessLayer.dll.config
+P:\CECS 475\Assignment 6\Client\bin\Debug\EntityFramework.xml
+P:\CECS 475\Assignment 6\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+P:\CECS 475\Assignment 6\Client\obj\Debug\Client.exe
+P:\CECS 475\Assignment 6\Client\obj\Debug\Client.pdb

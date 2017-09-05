@@ -1,0 +1,34 @@
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\Books.mdf
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\Books_log.ldf
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe.config
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\Assignment 5.pdb
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\EntityFramework.dll
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\EntityFramework.xml
+P:\CECS 475\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csprojResolveAssemblyReference.cache
+P:\CECS 475\Assignment 5\Assignment 5\obj\Debug\App.g.cs
+P:\CECS 475\Assignment 5\Assignment 5\obj\Debug\Assignment 5_Content.g.cs
+P:\CECS 475\Assignment 5\Assignment 5\obj\Debug\Assignment 5_MarkupCompile.cache
+P:\CECS 475\Assignment 5\Assignment 5\obj\Debug\Assignment 5_MarkupCompile.lref
+P:\CECS 475\Assignment 5\Assignment 5\obj\Debug\Assignment 5.g.resources
+P:\CECS 475\Assignment 5\Assignment 5\obj\Debug\Assignment_5.Properties.Resources.resources
+P:\CECS 475\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csproj.GenerateResource.Cache
+P:\CECS 475\Assignment 5\Assignment 5\obj\Debug\Assignment 5.exe
+P:\CECS 475\Assignment 5\Assignment 5\obj\Debug\Assignment 5.pdb
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\GalaSoft.MvvmLight.dll
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\System.Windows.Interactivity.dll
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\GalaSoft.MvvmLight.pdb
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\GalaSoft.MvvmLight.xml
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+P:\CECS 475\Assignment 5\Assignment 5\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+P:\CECS 475\Assignment 5\Assignment 5\obj\Debug\View\ViewResult.g.cs
+P:\CECS 475\Assignment 5\Assignment 5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+P:\CECS 475\Assignment 5\Assignment 5\obj\Debug\App.baml
+P:\CECS 475\Assignment 5\Assignment 5\obj\Debug\View\ViewResult.baml

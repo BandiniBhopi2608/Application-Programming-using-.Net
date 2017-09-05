@@ -1,0 +1,4 @@
+P:\CECS 475\MyCalculator\Bank\bin\Debug\Bank.dll
+P:\CECS 475\MyCalculator\Bank\bin\Debug\Bank.pdb
+P:\CECS 475\MyCalculator\Bank\obj\Debug\Bank.dll
+P:\CECS 475\MyCalculator\Bank\obj\Debug\Bank.pdb

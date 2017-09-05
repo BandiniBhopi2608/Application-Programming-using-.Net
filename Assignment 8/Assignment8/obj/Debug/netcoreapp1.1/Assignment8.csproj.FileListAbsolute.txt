@@ -1,0 +1,9 @@
+P:\CECS 475\Assignment8\Assignment8\bin\Debug\netcoreapp1.1\Assignment8.deps.json
+P:\CECS 475\Assignment8\Assignment8\bin\Debug\netcoreapp1.1\Assignment8.runtimeconfig.json
+P:\CECS 475\Assignment8\Assignment8\bin\Debug\netcoreapp1.1\Assignment8.runtimeconfig.dev.json
+P:\CECS 475\Assignment8\Assignment8\bin\Debug\netcoreapp1.1\Assignment8.dll
+P:\CECS 475\Assignment8\Assignment8\bin\Debug\netcoreapp1.1\Assignment8.pdb
+P:\CECS 475\Assignment8\Assignment8\obj\Debug\netcoreapp1.1\Assignment8.csprojResolveAssemblyReference.cache
+P:\CECS 475\Assignment8\Assignment8\obj\Debug\netcoreapp1.1\Assignment8.AssemblyInfo.cs
+P:\CECS 475\Assignment8\Assignment8\obj\Debug\netcoreapp1.1\Assignment8.dll
+P:\CECS 475\Assignment8\Assignment8\obj\Debug\netcoreapp1.1\Assignment8.pdb

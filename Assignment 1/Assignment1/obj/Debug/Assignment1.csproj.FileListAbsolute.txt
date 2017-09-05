@@ -1,0 +1,6 @@
+P:\CECS 475\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+P:\CECS 475\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+P:\CECS 475\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+P:\CECS 475\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+P:\CECS 475\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+P:\CECS 475\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
